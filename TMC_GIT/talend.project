@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_ZFrjURn2EeygXvfM7l4SfQ" label="TMC_GIT" description="Studio project linked to GIT" language="java" technicalLabel="TMC_GIT" author="_ZFrjUhn2EeygXvfM7l4SfQ" productVersion="Talend Cloud API Services Platform-7.3.1.20201125_1449-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/AccuracyHyd123/git-training-tmc&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_ZINS4Bn2EeygXvfM7l4SfQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_ZFrjUhn2EeygXvfM7l4SfQ" login="rmacherla@trial06110.ap.talend.com" firstName="Rupesh" lastName="Macherla" type="DQ"/>
+</xmi:XMI>
